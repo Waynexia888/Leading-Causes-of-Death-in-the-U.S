@@ -12,3 +12,14 @@ On selecting a particular year and hovering over a particular state, a tooltip d
 
 On clicking on a each state a summary bar chart showing the number of deaths due to various causes is displayed in a pop up.
 
+---
+
+### Steps to Run:
+
+1. Clone the repository
+
+2. Ensure you have node.js installed in the repo, otherwise install nodeJS using npm. 
+To install: `npm install -g http-server`
+
+3. To run:  `http-server & `
+
